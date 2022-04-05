@@ -1,12 +1,10 @@
 ### Hi there soy estudiante de la lic. en computacion de la escuela de ciencias de la UABJO 👋
 :stuck_out_tongue:
 🏍️
-<!--
-**JOSEMIRLOPEZSTGO/JOSEMIRLOPEZSTGO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently  estudiando .. en la licenciaruta de ##
+- 
 - 🌱 I’m currently learning ...javascrip, vsc, html
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ....
