@@ -4,10 +4,6 @@
   <img align="left" alt="JOSEMIRLOPEZSTGO Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=hebertdev1.hebertdev1)
-
-<br />
-
 Hola, soy [ JOSEMIR LOPEZ STGO], ESTUDIANTE DE ESCUELA DE CIENCIAS DE LA UNIVERSIDAD AUTONOMA DE BENITO JUAREZ DE OAXACA UABJO 🚀 SOY OAXAQUEÑO, SOY NUEVO EN ESTE MUNDO PERO ESPERO TENER AMPLIOS CONOCIMIENTOS
 <br />
 <br />
